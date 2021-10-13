@@ -1,0 +1,48 @@
+---
+title: "Katia Lopes, PhD"
+image: "Katia_quadrado.jpg"
+links:
+  - label: Lattes CV
+    url: "http://lattes.cnpq.br/1203700373317485"
+  - label: Publications
+    url: "https://scholar.google.com/citations?hl=en&user=y2ttJsIAAAAJ&view_op=list_works&sortby=pubdate"
+  - label: Twitter
+    url: "https://twitter.com/lopeskp"
+  - label: Email
+    url: "mailto:katiaplopes@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a **Scientist**: Systems Analyst, and Computational Biologist. I study the role of distinct cell types in neurodegenerative disorders. My experience includes Transcriptome, Genomic analysis, and the development of pipelines for high computing environments. 
+
+## Education
+
+**Federal University of Minas Gerais (UFMG)** | Belo Horizonte, Brazil
+
+PhD in Bioinformatics | 2013 - 2017
+
+**Federal University of Paraná (UFPR)** | Curitiba, Brazil
+
+MSc in Bioinformatics | 2011 - 2012
+
+**Anhanguera University** | Belo Horizonte, Brazil
+
+Bachelor of Computer Information Systems | 2007 - 2010
+
+## Experience
+
+**Data Analyst/ Postdoc** | Raj Lab, Department of Neurosciences. Icahn School of Medicine at Mount Sinai | NY, USA. November 2018 - Present
+
+**Postdoctoral Researcher** | Human and Medical Genetics Laboratory. Federal University of Pará (UFPA) | Belem, Brazil. March 2017 - April 2018
+
+**Visiting Researcher** | Salamanca University (USAL) | Salamanca, Spain. February 2015 - January 2016
+
+**Database Administrator (DBA)** | Empresa1 Automation Systems | Belo Horizonte, Brazil. October 2008 - January 2011. 
+
+**Human Research Ethics Committee Secretary** | Faculdade da Saude e Ecologia Humana (FASEH) | Vespasiano, Brazil. July 2005 - September 2008
+
+
+
