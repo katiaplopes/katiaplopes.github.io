@@ -21,16 +21,16 @@ I am a **Scientist**: Systems Analyst, and Computational Biologist. I study the 
 ## Education
 
 **Federal University of Minas Gerais (UFMG)** | Belo Horizonte, Brazil
-
-PhD in Bioinformatics | 2013 - 2017
+  
+- PhD in Bioinformatics | 2013 - 2017
 
 **Federal University of Paraná (UFPR)** | Curitiba, Brazil
-
-MSc in Bioinformatics | 2011 - 2012
+  
+- MSc in Bioinformatics | 2011 - 2012
 
 **Anhanguera University** | Belo Horizonte, Brazil
-
-Bachelor of Computer Information Systems | 2007 - 2010
+  
+- Bachelor of Computer Information Systems | 2007 - 2010
 
 ## Experience
 
