@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-I am a **Scientist**: Systems Analyst, and Computational Biologist. I study the role of distinct cell types in neurodegenerative disorders. My experience includes Transcriptome, Genomic analysis, and the development of pipelines for high computing environments. 
+I am a **Scientist**: Systems Analyst, and Computational Biologist. I study the role of distinct cell types in neurodegenerative disorders. My experience includes Transcriptome, Genomic analysis, Networks visualization and the development of pipelines for high computing environments. 
 
 ## Education
 
@@ -39,6 +39,8 @@ I am a **Scientist**: Systems Analyst, and Computational Biologist. I study the 
 **Data Liaison** | AMP-AD Diversity Consortium meeting, USA. January 2022 - Present 
 
 **Mentor** | Health Sciences Program, Institute of Medical Assistance to State Civil Servants (IAMSPE), São Paulo, Brazil. October 2021 - Present 
+
+**Mentor** | Bioinformatics Program, Federal University of Paraná, Curitiba, Brazil. May 2022 - Present 
 
 **Data Analyst** | Raj Lab, Department of Neurosciences. Icahn School of Medicine at Mount Sinai | NY, USA. November 2018 - December 2021
 
