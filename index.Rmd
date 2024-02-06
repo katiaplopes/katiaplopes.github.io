@@ -1,6 +1,6 @@
 ---
 title: "Katia Lopes, PhD"
-image: "Katia_quadrado.jpg"
+image: "image00020.JPG"
 links:
   - label: Lattes CV
     url: "http://lattes.cnpq.br/1203700373317485"
@@ -55,4 +55,4 @@ I am a **Scientist**: Systems Analyst, and Computational Biologist. I study the 
 **Human Research Ethics Committee Secretary** | Faculdade da Saúde e Ecologia Humana (FASEH) | Vespasiano, Brazil. July 2005 - September 2008
 
 __________
-Last update: July 2023. 
+Last update: Feb 2024. 
