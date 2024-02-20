@@ -38,8 +38,6 @@ I am a **Scientist**: Systems Analyst, and Computational Biologist. I study the 
 
 **Data Liaison** | AMP-AD Diversity Consortium meeting, USA. January 2022 - Present 
 
-**Editor Frontiers in Genetics** | Special edition ["Single Cell Genomics: Focus on Neurodegeneration"](https://www.frontiersin.org/research-topics/53920/single-cell-genomics-focus-on-neurodegeneration#articles)
-
 **Mentor** | Health Sciences Program, Institute of Medical Assistance to State Civil Servants (IAMSPE), São Paulo, Brazil. October 2021 - Present 
 
 **Mentor** | Bioinformatics Program, Federal University of Paraná, Curitiba, Brazil. May 2022 - Present 
