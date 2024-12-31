@@ -1,6 +1,6 @@
 ---
 title: "Katia Lopes, PhD"
-image: "image00020.JPG"
+image: "photo_cv.jpg"
 links:
   - label: Lattes CV
     url: "http://lattes.cnpq.br/1203700373317485"
@@ -34,7 +34,7 @@ I am a **Scientist**: Systems Analyst, and Computational Biologist. I study the 
 
 ## Experience
 
-**Instructor/ Computational Biologist** | Rush Alzheimer’s Disease Center (RADC). Chicago, Illinois, USA. January 2022 - Present 
+**Faculty (Computational Biologist)** | Rush Alzheimer’s Disease Center (RADC). Chicago, Illinois, USA. January 2022 - Present 
 
 **Data Liaison** | AMP-AD Diversity Consortium meeting, USA. January 2022 - Present 
 
@@ -53,4 +53,4 @@ I am a **Scientist**: Systems Analyst, and Computational Biologist. I study the 
 **Human Research Ethics Committee Secretary** | Faculdade da Saúde e Ecologia Humana (FASEH) | Vespasiano, Brazil. July 2005 - September 2008
 
 __________
-Last update: Feb 2024. 
+Last update: Dec 2024. 
