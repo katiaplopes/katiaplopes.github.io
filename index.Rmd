@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-I am a **Scientist**: Systems Analyst, and Computational Biologist. I study the role of distinct cell types in neurodegenerative disorders. My experience includes Transcriptome, Genomic analysis, Networks visualization and the development of pipelines for high computing environments. 
+Computational scientist with experience in genetics and multi-modal data analysis, interested in understanding how things work at the molecular level. Expertise in systems biology and multi-omics integration approaches for data-driven insights and biomarker discovery. 
 
 ## Education
 
