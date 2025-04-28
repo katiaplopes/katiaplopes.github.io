@@ -6,8 +6,8 @@ links:
     url: "http://lattes.cnpq.br/1203700373317485"
   - label: Publications
     url: "https://scholar.google.com/citations?hl=en&user=y2ttJsIAAAAJ&view_op=list_works&sortby=pubdate"
-  - label: Twitter
-    url: "https://twitter.com/lopeskp"
+  - label: Bluesky
+    url: "https://bsky.app/profile/kplopes.bsky.social"
   - label: Email
     url: "mailto:katiaplopes@gmail.com"
 output:
@@ -52,5 +52,15 @@ Computational scientist with experience in genetics and multi-modal data analysi
 
 **Human Research Ethics Committee Secretary** | Faculdade da Saúde e Ecologia Humana (FASEH) | Vespasiano, Brazil. July 2005 - September 2008
 
+## Mentees 
+
+**Juliana Beker: ** MSc in Bioinformatics at UFPR. 
+
+**Loren dos Santos: ** MSc in Bioinformatics at UFPR.
+
+**Claudio Martins: ** MSc in Health Sciences at IAMSPE. 
+
+**Rebecca Cruz: ** Rotation at the RADC with a Brazilian fellowship. 
+
 __________
-Last update: Dec 2024. 
+Last update: April 2025. 
