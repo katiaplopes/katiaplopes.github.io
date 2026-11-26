@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1176 727" width="1176" height="727">
+  <title>Katia Lopes career timeline</title>
+  <style>
+    text { font-family: Arial, sans-serif; fill: #33263e; }
+    .heading { font-family: Georgia, serif; font-size: 46px; }
+    .role { font-size: 14px; font-weight: 700; }
+    .place { font-size: 12px; }
+    .axis, .dates, .awards, .legend { font-size: 11px; }
+    .dates, .award-year { font-weight: 700; }
+    .education { color: #2758a5; }
+    .research { color: #08776e; }
+    .industry { color: #a34b1c; }
+    .bars path, .key { stroke: currentColor; stroke-width: 8; stroke-linecap: round; fill: none; }
+    .key { stroke-width: 5; }
+    .dates text { fill: currentColor; }
+  </style>
+  <rect width="1176" height="727" fill="#fcfcfc"/>
+  <rect width="1176" height="150" fill="#ffe4cc"/>
+  <path d="M0 3.5H1176" stroke="#60417f" stroke-width="7"/>
+  <text x="44" y="48" font-size="13" font-weight="700" style="fill:#60417f">KATIA LOPES, PHD</text>
+  <text x="42" y="96" class="heading">Career timeline</text>
+  <text x="45" y="125" font-size="16">Bioinformatics, human genetics, and Alzheimer’s disease research</text>
+
+  <text y="167" class="axis" text-anchor="middle"><tspan x="448">2005</tspan><tspan x="510">2007</tspan><tspan x="572">2009</tspan><tspan x="633">2011</tspan><tspan x="695">2013</tspan><tspan x="756">2015</tspan><tspan x="818">2017</tspan><tspan x="879">2019</tspan><tspan x="941">2021</tspan><tspan x="1003">2023</tspan><tspan x="1064">2025</tspan></text>
+  <path d="M448 180V227 M510 180V227 M572 180V227 M633 180V227 M695 180V227 M756 180V227 M818 180V227 M879 180V227 M941 180V227 M1003 180V227 M1064 180V227"
+        stroke="#e8dfee"/>
+  <text x="44" y="202" class="role">Administrative assistant</text>
+  <text x="44" y="219" class="place">College of Health and Human Ecology (FASEH). Vespasiano, MG, Brazil.</text>
+  <g class="bars"><path class="industry" d="M448 202H541"/></g>
+  <g class="dates"><text x="553" y="206" class="industry">2005–2008</text></g>
+
+  <g transform="translate(0 47)">
+    <g fill="#f6f0f8">
+      <rect x="37" y="183" width="1102" height="43" rx="6"/>
+      <rect x="37" y="277" width="1102" height="43" rx="6"/>
+      <rect x="37" y="371" width="1102" height="43" rx="6"/>
+      <rect x="37" y="465" width="1102" height="43" rx="6"/>
+    </g>
+    <path d="M510 180V544 M572 180V544 M633 180V544 M695 180V544 M756 180V544 M818 180V544 M879 180V544 M941 180V544 M1003 180V544 M1064 180V544"
+          stroke="#e8dfee"/>
+
+
+    <g transform="translate(44 202)">
+      <text class="role">Bachelor of Computer Information Systems</text>
+      <text y="17" class="place">Anhanguera University. Belo Horizonte, MG, Brazil.</text>
+      <text y="47" class="role">Database Administrator</text>
+      <text y="64" class="place">Empresa1 Automation Systems, Belo Horizonte, Brazil</text>
+      <text y="94" class="role">MSc in Bioinformatics</text>
+      <text y="111" class="place">Federal University of Paraná (UFPR). Curitiba, PR, Brazil.</text>
+      <text y="141" class="role">PhD in Bioinformatics</text>
+      <text y="158" class="place">Federal University of Minas Gerais (UFMG). Belo Horizonte, MG, Brazil.</text>
+      <text y="188" class="role">Visiting researcher during PhD</text>
+      <text y="205" class="place">University of Salamanca (USAL). Salamanca, Castilla y León, Spain.</text>
+      <text y="235" class="role">Postdoctoral researcher</text>
+      <text y="252" class="place">Federal University of Pará (UFPA). Belém, PA, Brazil.</text>
+      <text y="282" class="role">Data Analyst</text>
+      <text y="299" class="place">Icahn School of Medicine at Mount Sinai. New York, NY, USA.</text>
+      <text y="329" class="role">Instructor and computational neuroscientist</text>
+      <text y="346" class="place">Rush Alzheimer's Disease Center (RADC). Chicago, IL, USA.</text>
+    </g>
+
+    <g class="bars">
+      <path class="education" d="M510 202H622.5 M633 296H695 M695 343H818"/>
+      <path class="industry" d="M541 249H633"/>
+      <path class="research" d="M756 390H787 M818 437H849 M849 484H972 M972 531H1095"/>
+    </g>
+    <path class="research" d="M1095 531H1112 M1108 527L1112 531L1108 535" stroke="currentColor" fill="none"/>
+    <g class="dates">
+      <text x="635" y="206" class="education">2007–2010</text>
+      <text x="644" y="253" class="industry">2008–2011</text>
+      <text x="707" y="300" class="education">2011–Dec 2012</text>
+      <text x="830" y="347" class="education">Jan 2013–2017</text>
+      <text x="799" y="394" class="research">Jan–Dec 2015</text>
+      <text x="860" y="441" class="research">2017–2018</text>
+      <text x="984" y="488" class="research">2018–2021</text>
+      <text x="960" y="535" class="research" text-anchor="end">2022–present</text>
+    </g>
+
+    <rect x="37" y="566" width="1102" height="72" rx="7" fill="#fcf0e1"/>
+    <text x="44" y="594" font-size="13" font-weight="700">Selected awards</text>
+    <path d="M510 588H1095" stroke="#ead1c1"/>
+    <g fill="#8d452a">
+      <circle cx="602" cy="588" r="5"/>
+      <circle cx="726" cy="588" r="5"/>
+      <circle cx="910" cy="588" r="5"/>
+      <circle cx="1095" cy="588" r="5"/>
+    </g>
+    <g class="awards" text-anchor="middle">
+      <text x="602" y="604"><tspan class="award-year">2010</tspan><tspan x="602" dy="15">First place, Brazil</tspan><tspan x="602" dy="14">National Merit Award</tspan></text>
+      <text x="726" y="604"><tspan class="award-year">2014</tspan><tspan x="726" dy="15">CAPES Science Without</tspan><tspan x="726" dy="14">Borders scholarship</tspan></text>
+      <text x="910" y="604"><tspan class="award-year">2020</tspan><tspan x="910" dy="15">ASHG/Charles J. Epstein Award</tspan><tspan x="910" dy="14">Postdoctoral semifinalist</tspan></text>
+      <text x="1095" y="604"><tspan class="award-year">2026</tspan><tspan x="1095" dy="15">SysMod first-place</tspan><tspan x="1095" dy="14">poster award</tspan></text>
+    </g>
+    <text x="44" y="664" font-size="10">Source: Katia Lopes CV, October 2026.</text>
+    <g class="legend">
+      <path class="key education" d="M513 660h8"/>
+      <text x="529" y="664">Education and training</text>
+      <path class="key research" d="M690 660h8"/>
+      <text x="706" y="664">Research appointments</text>
+      <path class="key industry" d="M868 660h8"/>
+      <text x="884" y="664">Industry experience</text>
+    </g>
+  </g>
+</svg>

@@ -91,7 +91,7 @@ header nav a:hover, header nav a[aria-current="page"] { text-decoration:underlin
 .cv-section { margin-top:2.5rem; }
 .cv-section h2 { font-size:clamp(1.85rem,4vw,2.7rem); }
 .timeline { border:1px solid var(--line); background:#faf6fc; margin:1rem 0 0; padding:clamp(.45rem,2vw,1.2rem); }
-.timeline img { display:block; width:min(100%,56rem); height:auto; }
+.timeline img { display:block; width:min(100%,64rem); height:auto; }
 .timeline figcaption { padding:.6rem .25rem .2rem; }
 @media (max-width:690px) {
   .hero-grid,.resource-grid { grid-template-columns:1fr; }
